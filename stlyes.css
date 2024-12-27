@@ -1,0 +1,15 @@
+.feature-row:hover {
+    background-color: #f8fafc;
+}
+
+.vendor-col-chimney {
+    background-color: #f0f9ff;
+}
+
+.score-card {
+    transition: all 0.3s ease;
+}
+
+.score-card:hover {
+    transform: translateY(-2px);
+}
